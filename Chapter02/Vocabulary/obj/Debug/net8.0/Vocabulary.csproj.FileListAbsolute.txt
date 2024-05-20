@@ -1,0 +1,14 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\obj\Debug\net8.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\obj\Debug\net8.0\Vocabulary.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\obj\Debug\net8.0\Vocabulary.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\obj\Debug\net8.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\bin\Debug\net8.0\Vocabulary.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\bin\Debug\net8.0\Vocabulary.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\bin\Debug\net8.0\Vocabulary.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\bin\Debug\net8.0\Vocabulary.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\bin\Debug\net8.0\Vocabulary.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\obj\Debug\net8.0\Vocabulary.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\obj\Debug\net8.0\refint\Vocabulary.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\obj\Debug\net8.0\Vocabulary.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\obj\Debug\net8.0\Vocabulary.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Vocabulary\obj\Debug\net8.0\ref\Vocabulary.dll

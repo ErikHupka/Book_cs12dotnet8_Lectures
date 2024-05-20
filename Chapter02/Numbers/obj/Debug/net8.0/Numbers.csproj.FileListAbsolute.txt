@@ -1,0 +1,14 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\bin\Debug\net8.0\Numbers.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\bin\Debug\net8.0\Numbers.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\bin\Debug\net8.0\Numbers.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\bin\Debug\net8.0\Numbers.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\bin\Debug\net8.0\Numbers.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\obj\Debug\net8.0\Numbers.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\obj\Debug\net8.0\Numbers.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Numbers\obj\Debug\net8.0\ref\Numbers.dll

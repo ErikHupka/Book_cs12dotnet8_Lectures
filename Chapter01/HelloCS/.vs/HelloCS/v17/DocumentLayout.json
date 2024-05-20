@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter01\\HelloCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE5A39A-EF85-4D79-BFF0-3B2D47B38ADD}|AboutMyEnvironment\\AboutMyEnvironment.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter01\\hellocs\\aboutmyenvironment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE5A39A-EF85-4D79-BFF0-3B2D47B38ADD}|AboutMyEnvironment\\AboutMyEnvironment.csproj|solutionrelative:aboutmyenvironment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CCACEF-4F27-42CF-A382-EE6C9D27BD5F}|HelloCS\\HelloCS.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter01\\hellocs\\hellocs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CCACEF-4F27-42CF-A382-EE6C9D27BD5F}|HelloCS\\HelloCS.csproj|solutionrelative:hellocs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter01\\HelloCS\\AboutMyEnvironment\\Program.cs",
+              "RelativeDocumentMoniker": "AboutMyEnvironment\\Program.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter01\\HelloCS\\AboutMyEnvironment\\Program.cs",
+              "RelativeToolTip": "AboutMyEnvironment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:09:28.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter01\\HelloCS\\HelloCS\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCS\\Program.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter01\\HelloCS\\HelloCS\\Program.cs",
+              "RelativeToolTip": "HelloCS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:29:17.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
