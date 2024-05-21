@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\bin\Debug\net8.0\Formatting.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\bin\Debug\net8.0\Formatting.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\bin\Debug\net8.0\Formatting.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\bin\Debug\net8.0\Formatting.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\bin\Debug\net8.0\Formatting.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\obj\Debug\net8.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\obj\Debug\net8.0\Formatting.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\obj\Debug\net8.0\Formatting.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\obj\Debug\net8.0\Formatting.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\obj\Debug\net8.0\Formatting.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\obj\Debug\net8.0\Formatting.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\obj\Debug\net8.0\refint\Formatting.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\obj\Debug\net8.0\Formatting.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\obj\Debug\net8.0\Formatting.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Formatting\obj\Debug\net8.0\ref\Formatting.dll

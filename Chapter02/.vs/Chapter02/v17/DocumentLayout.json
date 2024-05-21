@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF2CED6D-189E-4921-A06F-D3446F84D979}|Numbers\\Numbers.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter02\\numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2CED6D-189E-4921-A06F-D3446F84D979}|Numbers\\Numbers.csproj|solutionrelative:numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6DDDBF9-C322-4469-AD45-9101CAA9F28D}|Vocabulary\\Vocabulary.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter02\\vocabulary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6DDDBF9-C322-4469-AD45-9101CAA9F28D}|Vocabulary\\Vocabulary.csproj|solutionrelative:vocabulary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50F40914-E70B-4D7D-B972-37F4333A29B9}|AsyncConsole\\AsyncConsole.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter02\\asyncconsole\\asyncconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50F40914-E70B-4D7D-B972-37F4333A29B9}|AsyncConsole\\AsyncConsole.csproj|solutionrelative:asyncconsole\\asyncconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,41 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter02\\Numbers\\Program.cs",
-              "RelativeDocumentMoniker": "Numbers\\Program.cs",
-              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter02\\Numbers\\Program.cs",
-              "RelativeToolTip": "Numbers\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAmwDUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T18:02:10.068Z",
+              "Title": "AsyncConsole",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter02\\AsyncConsole\\AsyncConsole.csproj",
+              "RelativeDocumentMoniker": "AsyncConsole\\AsyncConsole.csproj",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter02\\AsyncConsole\\AsyncConsole.csproj",
+              "RelativeToolTip": "AsyncConsole\\AsyncConsole.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T17:21:48.554Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter02\\Vocabulary\\Program.cs",
-              "RelativeDocumentMoniker": "Vocabulary\\Program.cs",
-              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter02\\Vocabulary\\Program.cs",
-              "RelativeToolTip": "Vocabulary\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:47:38.343Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

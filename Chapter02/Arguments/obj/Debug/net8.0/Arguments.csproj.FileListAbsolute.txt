@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\bin\Debug\net8.0\Arguments.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\bin\Debug\net8.0\Arguments.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\bin\Debug\net8.0\Arguments.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\bin\Debug\net8.0\Arguments.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\bin\Debug\net8.0\Arguments.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\refint\Arguments.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\ref\Arguments.dll

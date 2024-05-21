@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\bin\Debug\net8.0\Ch02Ex03Numbers.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\bin\Debug\net8.0\Ch02Ex03Numbers.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\bin\Debug\net8.0\Ch02Ex03Numbers.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\bin\Debug\net8.0\Ch02Ex03Numbers.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\bin\Debug\net8.0\Ch02Ex03Numbers.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\obj\Debug\net8.0\refint\Ch02Ex03Numbers.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter02\Ch02Ex03Numbers\obj\Debug\net8.0\ref\Ch02Ex03Numbers.dll

@@ -1,7 +1,4 @@
-﻿//uint naturalNumber = 23;
-//int integerNumber = -23;
-//float realNumber = 2.3f;
-//double anotherRealNumber = 2.3;
+﻿#region Using binary or hexadecimal notation
 
 int decimalNotation = 2_000_000;
 int binaryNotation = 0b_0001_1110_1000_0100_1000_0000;
@@ -26,6 +23,10 @@ Console.WriteLine($"int uses {sizeof(int)} bytes and can store numbers in the ra
 Console.WriteLine($"double uses {sizeof(double)} bytes and can store numbers in the range {double.MinValue:N0} to {double.MaxValue:N0}.");
 Console.WriteLine($"decimal uses {sizeof(decimal)} bytes and can store numbers in the range {decimal.MinValue:N0} to {decimal.MaxValue:N0}");
 
+Console.WriteLine();
+#endregion
+
+#region Compare double and decimal types
 
 Console.WriteLine("Using doubles:");
 double a = 0.1;
@@ -53,3 +54,19 @@ else
 {
     Console.WriteLine($"{c} + {d} does NOT equal {0.3M}");
 }
+
+Console.WriteLine();
+
+#endregion
+
+#region New number types and unsafe code
+
+unsafe
+{
+    Console.WriteLine($"Half uses {sizeof(Half)} bytes and can store numbers in the range {Half.MinValue:N0} to {Half.MaxValue:N0}");
+    Console.WriteLine($"Int128 uses {sizeof(Int128)} bytes and can store numbers in the range {Int128.MinValue:N0} to {Int128.MaxValue:N0}");
+}
+
+Console.WriteLine();
+
+#endregion
