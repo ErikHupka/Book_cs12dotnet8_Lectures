@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A28AF0EA-4BDF-4056-9B24-49D0BF0DBC2C}|SelectionStatements\\SelectionStatements.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter03\\selectionstatements\\selectionstatements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A28AF0EA-4BDF-4056-9B24-49D0BF0DBC2C}|SelectionStatements\\SelectionStatements.csproj|solutionrelative:selectionstatements\\selectionstatements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8FF7575-7BE7-4550-B88B-49CE17F6E88F}|IterationStatements\\IterationStatements.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter03\\iterationstatements\\iterationstatements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F8FF7575-7BE7-4550-B88B-49CE17F6E88F}|IterationStatements\\IterationStatements.csproj|solutionrelative:iterationstatements\\iterationstatements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B78D1A0-18E3-40F0-9BC9-ECD618BAD4F6}|Arrays\\Arrays.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter03\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B78D1A0-18E3-40F0-9BC9-ECD618BAD4F6}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,40 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SelectionStatements",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
-              "RelativeDocumentMoniker": "SelectionStatements\\SelectionStatements.csproj",
-              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
-              "RelativeToolTip": "SelectionStatements\\SelectionStatements.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-23T14:13:22.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IterationStatements",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter03\\IterationStatements\\IterationStatements.csproj",
-              "RelativeDocumentMoniker": "IterationStatements\\IterationStatements.csproj",
-              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter03\\IterationStatements\\IterationStatements.csproj",
-              "RelativeToolTip": "IterationStatements\\IterationStatements.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-23T14:13:21.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter03\\Arrays\\Program.cs",
               "RelativeDocumentMoniker": "Arrays\\Program.cs",
               "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter03\\Arrays\\Program.cs",
               "RelativeToolTip": "Arrays\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T21:30:57.105Z",
+              "WhenOpened": "2024-05-24T11:41:32.157Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\Arrays\obj\Debug\net8.0\ref\Arrays.dll
