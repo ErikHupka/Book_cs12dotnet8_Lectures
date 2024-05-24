@@ -1,4 +1,7 @@
 ﻿#region Branching with the if statement
+using System.Data.Common;
+using System.Reflection.PortableExecutable;
+
 WriteLine("Branching with the if statement");
 
 string password = "ninja";
@@ -62,6 +65,65 @@ switch(number)
 WriteLine("After end of switch");
 A_label:
     WriteLine("After A_label");
+
+WriteLine();
+#endregion
+
+#region Pattern matching with the switch statement
+WriteLine("Pattern matching with the switch statement");
+
+Animal[]? animals =
+[
+    new Cat{Name = "Karen", Born = new(year:2022, month:8, day:23),Legs = 4, isDomestic=true},
+    null,
+    new Cat{Name = "Mufasa", Born = new(year:1994, month: 6, day:12)},
+    new Spider{Name = "Sid Vicious", Born = DateTime.Today, IsPoisonous=true},
+    new Spider{Name = "Captain Furry", Born= DateTime.Today,}
+];
+
+foreach (Animal? animal in animals)
+{
+    string message;
+    switch (animal)
+    {
+        case Cat fourLeggedCat when fourLeggedCat.Legs == 4:
+            message = $"The cat named {fourLeggedCat.Name} has four legs";
+            break;
+        case Cat wildCat when wildCat.isDomestic == false:
+            message = $"The non-domestic cat is names {wildCat.Name}";
+            break;
+        case Cat cat:
+            message = $"The cat is named {cat.Name}";
+            break;
+        default: //default is always evaluated last
+            message = $"{animal.Name} is a {animal.GetType().Name}.";
+            break;
+        case Spider spider when spider.IsPoisonous:
+            message = $"The {spider.Name} spider is poisonous. Run!";
+            break;
+        case null:
+            message = "The animal is null";
+            break;
+    }
+    WriteLine($"switch statement: {message}");
+
+    message = animal switch
+    {
+        Cat fourLeggedCat when fourLeggedCat.Legs == 4
+        => $"The cat names {fourLeggedCat.Name} has four legs.",
+        Cat wildCat when wildCat.isDomestic == false
+        => $"The non=domestic cat is names {wildCat.Name}",
+        Cat cat
+        => $"The cat is named {cat.Name}",
+        Spider spider when spider.IsPoisonous
+        => $"The {spider.Name} spider is poisonour. Run!",
+        null
+        => "The animal is null.",
+        _
+        => $"{animal.Name} is a {animal.GetType().Name}."
+    };
+    WriteLine($"switch expression: {message}");
+}
 
 WriteLine();
 #endregion
