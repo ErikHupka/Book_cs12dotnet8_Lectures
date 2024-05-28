@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\bin\Debug\net8.0\HandlingExceptions.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\bin\Debug\net8.0\HandlingExceptions.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\bin\Debug\net8.0\HandlingExceptions.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\bin\Debug\net8.0\HandlingExceptions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\bin\Debug\net8.0\HandlingExceptions.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\obj\Debug\net8.0\refint\HandlingExceptions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter03\HandlingExceptions\obj\Debug\net8.0\ref\HandlingExceptions.dll
