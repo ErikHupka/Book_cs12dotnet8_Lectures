@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Release\net8.0\Instrumenting.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Release\net8.0\Instrumenting.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Release\net8.0\Instrumenting.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Release\net8.0\Instrumenting.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Release\net8.0\Instrumenting.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Release\net8.0\refint\Instrumenting.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Release\net8.0\ref\Instrumenting.dll
