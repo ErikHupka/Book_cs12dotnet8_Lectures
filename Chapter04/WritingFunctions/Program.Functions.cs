@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+﻿using System.Diagnostics;
+using System.Globalization;
 using System.Runtime.CompilerServices;
 
 partial class Program
@@ -41,6 +42,109 @@ partial class Program
             CultureInfo.CurrentCulture = CultureInfo.GetCultureInfo(culture);
         }
         WriteLine($"CurrentCulture: {CultureInfo.CurrentCulture.DisplayName}");
+    }
+
+
+    /// <summary>
+    /// Pass a 32-bit integer and it will be converted into its ordinal equivalent.
+    /// </summary>
+    /// <param name="number">Number as a cardinal value e.g. 1,2,3, and so on. </param>
+    /// <returns>Number as an ordinal value e.g. 1st, 2nd, 3rd, and so on. </returns>
+
+    static string CardinalToOrdinal(uint number)
+    {
+        uint lastTwoDigits = number % 100;
+        switch (lastTwoDigits)
+        {
+            case 11:
+            case 12:
+            case 13:
+                return $"{number:N0}th";
+            default:
+                uint lastDigit = number % 10;
+                string suffix = lastDigit switch
+                {
+                    1 => "st",
+                    2 => "nd",
+                    3 => "rd",
+                    _ => "th"
+                };
+                return $"{number:N0}{suffix}";
+        }
+    }
+
+    static int Factorial(int number)
+    {
+        if (number < 0)
+        {
+            throw new ArgumentOutOfRangeException(message:
+              $"The factorial function is defined for non-negative integers only. Input: {number}",
+              paramName: nameof(number));
+        }
+        else if (number == 0)
+        {
+            return 1;
+        }
+        else
+        {
+            return number * Factorial(number - 1);
+        }
+    }
+
+    static void RunFactorial()
+    {
+        for (int i = 1; i <= 15; i++)
+        {
+            WriteLine($"{i}! = {Factorial(i):N0}");
+        }
+    }
+
+    static int FibImperative(uint term)
+    {
+        if (term == 0)
+        {
+            throw new ArgumentOutOfRangeException();
+        }
+        else if (term == 1)
+        {
+            return 0;
+        }
+        else if (term == 2)
+        {
+            return 1;
+        }
+        else
+        {
+            return FibImperative(term - 1) + FibImperative(term - 2);
+        }
+    }
+
+    static void RunFibImperative()
+    {
+        for (uint i = 1; i <= 30; i++)
+        {
+            WriteLine("The {0} term of the Fibonacci sequence is {1:N0}.",
+              arg0: CardinalToOrdinal(i),
+              arg1: FibImperative(term: i));
+        }
+    }
+
+    static int FibFunctional(uint term) => term switch
+    {
+        0 => throw new ArgumentOutOfRangeException(),
+        1 => 0,
+        2 => 1,
+        _ => FibFunctional(term - 1) + FibFunctional(term - 2)
+    };
+
+    static void RunFibFunctional()
+    {
+        for (uint i = 1; i <= 30; i++)
+        {
+            WriteLine("The {0} term of the Fibonacci sequence is {1:N0}.",
+              arg0: CardinalToOrdinal(i),
+              arg1: FibFunctional(term: i));
+        }
     }
 }
 
