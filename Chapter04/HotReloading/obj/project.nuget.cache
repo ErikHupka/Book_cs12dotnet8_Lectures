@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GJKcqPj/lUjnrKnjXD5d+eYutCxS931uiG28+h2iaLs2lrJPiyUiZwO47wLsZcSoZ+jOX4lL8INADQjJ5JwpXQ==",
+  "dgSpecHash": "V0uc5JbU9EM1EnASpB9aGYDdtd0aYC6zCvmLgTUyaQfUtUVJFx+FJ0ILr+g+8t1kV439F/f0pLP85s1Tt9m91A==",
   "success": true,
   "projectFilePath": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter04\\HotReloading\\HotReloading.csproj",
   "expectedPackageFiles": [],

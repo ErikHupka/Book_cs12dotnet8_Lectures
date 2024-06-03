@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E69520F-9A38-40D9-A5E6-BE5694C79E63}|Instrumenting\\Instrumenting.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter04\\instrumenting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E69520F-9A38-40D9-A5E6-BE5694C79E63}|Instrumenting\\Instrumenting.csproj|solutionrelative:instrumenting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E25C0A-1C34-4549-8456-47CAEA985CE7}|Ch04Ex02PrimeFactorsApp\\Ch04Ex02PrimeFactorsApp.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter04\\ch04ex02primefactorsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E25C0A-1C34-4549-8456-47CAEA985CE7}|Ch04Ex02PrimeFactorsApp\\Ch04Ex02PrimeFactorsApp.csproj|solutionrelative:ch04ex02primefactorsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4A5CED-EA97-4EB7-9EC5-644EFA7FEA8A}|Ch04Ex02PrimeFactorsTests\\Ch04Ex02PrimeFactorsTests.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter04\\ch04ex02primefactorstests\\primefactorsunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4A5CED-EA97-4EB7-9EC5-644EFA7FEA8A}|Ch04Ex02PrimeFactorsTests\\Ch04Ex02PrimeFactorsTests.csproj|solutionrelative:ch04ex02primefactorstests\\primefactorsunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A655F-9B54-4BB4-B11C-3AAFAFE64836}|Ch04Ex02PrimeFactorsLib\\Ch04Ex02PrimeFactorsLib.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter04\\ch04ex02primefactorslib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A655F-9B54-4BB4-B11C-3AAFAFE64836}|Ch04Ex02PrimeFactorsLib\\Ch04Ex02PrimeFactorsLib.csproj|solutionrelative:ch04ex02primefactorslib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +34,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeFactorsUnitTests.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter04\\Ch04Ex02PrimeFactorsTests\\PrimeFactorsUnitTests.cs",
+              "RelativeDocumentMoniker": "Ch04Ex02PrimeFactorsTests\\PrimeFactorsUnitTests.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter04\\Ch04Ex02PrimeFactorsTests\\PrimeFactorsUnitTests.cs",
+              "RelativeToolTip": "Ch04Ex02PrimeFactorsTests\\PrimeFactorsUnitTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:25:39.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter04\\Ch04Ex02PrimeFactorsLib\\Class1.cs",
+              "RelativeDocumentMoniker": "Ch04Ex02PrimeFactorsLib\\Class1.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter04\\Ch04Ex02PrimeFactorsLib\\Class1.cs",
+              "RelativeToolTip": "Ch04Ex02PrimeFactorsLib\\Class1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:22:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter04\\Instrumenting\\Program.cs",
-              "RelativeDocumentMoniker": "Instrumenting\\Program.cs",
-              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter04\\Instrumenting\\Program.cs",
-              "RelativeToolTip": "Instrumenting\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter04\\Ch04Ex02PrimeFactorsApp\\Program.cs",
+              "RelativeDocumentMoniker": "Ch04Ex02PrimeFactorsApp\\Program.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter04\\Ch04Ex02PrimeFactorsApp\\Program.cs",
+              "RelativeToolTip": "Ch04Ex02PrimeFactorsApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T20:22:51.742Z",
+              "WhenOpened": "2024-06-03T17:22:10.057Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,12 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\bin\Release\net8.0\CalculatorLib.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\bin\Release\net8.0\CalculatorLib.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\bin\Release\net8.0\CalculatorLib.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\obj\Release\net8.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\obj\Release\net8.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\obj\Release\net8.0\CalculatorLib.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\obj\Release\net8.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\obj\Release\net8.0\CalculatorLib.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\obj\Release\net8.0\CalculatorLib.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\obj\Release\net8.0\refint\CalculatorLib.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\obj\Release\net8.0\CalculatorLib.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\CalculatorLib\obj\Release\net8.0\ref\CalculatorLib.dll

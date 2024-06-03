@@ -13,3 +13,15 @@ C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Debug\net8.0\re
 C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Debug\net8.0\Instrumenting.pdb
 C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Debug\net8.0\Instrumenting.genruntimeconfig.cache
 C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Debug\net8.0\ref\Instrumenting.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Debug\net8.0\appsettings.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Debug\net8.0\Instrumenting.csproj.AssemblyReference.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter04\Instrumenting\obj\Debug\net8.0\Instrume.73B4F4AA.Up2Date

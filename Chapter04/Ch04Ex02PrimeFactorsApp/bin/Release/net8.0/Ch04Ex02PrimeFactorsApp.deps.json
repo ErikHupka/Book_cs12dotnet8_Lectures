@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ch04Ex02PrimeFactorsApp/1.0.0": {
+        "dependencies": {
+          "CallStackExceptionHandlingLib": "1.0.0",
+          "Ch04Ex02PrimeFactorsLib": "1.0.0"
+        },
+        "runtime": {
+          "Ch04Ex02PrimeFactorsApp.dll": {}
+        }
+      },
+      "CallStackExceptionHandlingLib/1.0.0": {
+        "runtime": {
+          "CallStackExceptionHandlingLib.dll": {}
+        }
+      },
+      "Ch04Ex02PrimeFactorsLib/1.0.0": {
+        "runtime": {
+          "Ch04Ex02PrimeFactorsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ch04Ex02PrimeFactorsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CallStackExceptionHandlingLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ch04Ex02PrimeFactorsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
