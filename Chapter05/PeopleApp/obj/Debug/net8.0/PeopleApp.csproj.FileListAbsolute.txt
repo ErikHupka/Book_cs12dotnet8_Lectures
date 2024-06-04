@@ -17,3 +17,5 @@ C:\VisualStudio Projects\cs12dotnet8\Chapter05\PeopleApp\obj\Debug\net8.0\refint
 C:\VisualStudio Projects\cs12dotnet8\Chapter05\PeopleApp\obj\Debug\net8.0\PeopleApp.pdb
 C:\VisualStudio Projects\cs12dotnet8\Chapter05\PeopleApp\obj\Debug\net8.0\PeopleApp.genruntimeconfig.cache
 C:\VisualStudio Projects\cs12dotnet8\Chapter05\PeopleApp\obj\Debug\net8.0\ref\PeopleApp.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter05\PeopleApp\bin\Debug\net8.0\PacktLibraryModern.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter05\PeopleApp\bin\Debug\net8.0\PacktLibraryModern.pdb
