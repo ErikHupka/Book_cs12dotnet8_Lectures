@@ -1,11 +1,13 @@
 ﻿namespace Packt.Shared;
 
-public class Person : object
+public partial class Person : object
 {
     #region Fields: Data or state for this person.
     public string? Name; // ? means it can be null
     public DateTimeOffset Born;
-    public WondersOfTheAncientWorld FavoriteAncientWonder;
+
+    //public WondersOfTheAncientWorld FavoriteAncientWonder;   ---- Moved to the PersonAutoGen.cs
+
     public WondersOfTheAncientWorld BucketList;
     public List<Person> Children = [];
     public const string Species = "Homo Sapiens";
@@ -97,6 +99,24 @@ public class Person : object
         name = Name;
         dob = Born;
         fav = FavoriteAncientWonder;
+    }
+
+    // Method with a local function.
+    public static int Factorial(int number)
+    {
+        if (number < 0)
+        {
+            throw new ArgumentException(
+                $"{nameof(number)} cannot be less than zero.");
+        }
+
+        return localFactorial(number);
+
+        int localFactorial(int localNumber)
+        {
+            if (localNumber == 0) return 1;
+            return localNumber * localFactorial(localNumber - 1);
+        }
     }
 
     #endregion
