@@ -239,4 +239,33 @@ WriteLine($"{jeff.FirstName} {jeff.LastName}");
 ImmutableVehicle car = new()
 {
     Brand = "Mazda MX-5 RF",
+    Color = "Soul Red Crystal Metallic",
+    Wheels = 4
 };
+
+ImmutableVehicle repaintedCar = car
+    with
+{ Color = "Polymetal Grey Metallic" };
+
+WriteLine($"Original car color was {car.Color}");
+WriteLine($"New car color is {repaintedCar.Color}");
+
+AnimalClass ac1 = new() { Name = "Rex" };
+AnimalClass ac2 = new() { Name = "Rex" };
+WriteLine($"ac1 == ac2: { ac1 == ac2 }");
+
+AnimalRecord ar1 = new() { Name = "Rex" };
+AnimalRecord ar2 = new() { Name = "Rex" };
+WriteLine($"ar1 == ar2: {ar1 == ar2}");
+
+ImmutableAnimal oscar = new("Oscar", "Labrador");
+var (who, what) = oscar; // Calls the decontruct method.
+WriteLine($"{who} is a {what}");
+
+Headset vp = new(manufacturer: "Apple", productName: "Vision Pro");
+WriteLine($"{vp.ProductName} is made by {vp.Manufacturer}");
+
+Headset holo = new();
+WriteLine($"{holo.ProductName} is made by {holo.Manufacturer}");
+Headset mq = new() { Manufacturer = "Meta", ProductName = "Quest 3" };
+WriteLine($"{mq.ProductName} is made by {mq.Manufacturer}");
