@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19770-8DF5-42F1-9427-F48A2BC8F534}|PeopleApp\\PeopleApp.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter06\\peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19770-8DF5-42F1-9427-F48A2BC8F534}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAB5F52-DF3D-4513-A7D5-A9A2B2932CE0}|PacktLibrary\\PacktLibrary.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter06\\packtlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAB5F52-DF3D-4513-A7D5-A9A2B2932CE0}|PacktLibrary\\PacktLibrary.csproj|solutionrelative:packtlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19770-8DF5-42F1-9427-F48A2BC8F534}|PeopleApp\\PeopleApp.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter06\\peopleapp\\program.eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19770-8DF5-42F1-9427-F48A2BC8F534}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\program.eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19770-8DF5-42F1-9427-F48A2BC8F534}|PeopleApp\\PeopleApp.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter06\\peopleapp\\peopleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57B19770-8DF5-42F1-9427-F48A2BC8F534}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\peopleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeDocumentMoniker": "PeopleApp\\Program.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeToolTip": "PeopleApp\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAG4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:34:27.106Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter06\\PacktLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "PacktLibrary\\Person.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter06\\PacktLibrary\\Person.cs",
+              "RelativeToolTip": "PacktLibrary\\Person.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:33:26.799Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.EventHandlers.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter06\\PeopleApp\\Program.EventHandlers.cs",
+              "RelativeDocumentMoniker": "PeopleApp\\Program.EventHandlers.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter06\\PeopleApp\\Program.EventHandlers.cs",
+              "RelativeToolTip": "PeopleApp\\Program.EventHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:47:24.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeopleApp",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+              "RelativeDocumentMoniker": "PeopleApp\\PeopleApp.csproj",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+              "RelativeToolTip": "PeopleApp\\PeopleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T15:43:31.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
