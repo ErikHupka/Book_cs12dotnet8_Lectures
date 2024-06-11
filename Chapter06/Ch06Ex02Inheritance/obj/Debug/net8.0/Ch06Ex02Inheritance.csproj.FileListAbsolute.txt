@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\bin\Debug\net8.0\Ch06Ex02Inheritance.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\bin\Debug\net8.0\Ch06Ex02Inheritance.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\bin\Debug\net8.0\Ch06Ex02Inheritance.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\bin\Debug\net8.0\Ch06Ex02Inheritance.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\bin\Debug\net8.0\Ch06Ex02Inheritance.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\obj\Debug\net8.0\Ch06Ex02Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\obj\Debug\net8.0\Ch06Ex02Inheritance.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\obj\Debug\net8.0\Ch06Ex02Inheritance.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\obj\Debug\net8.0\Ch06Ex02Inheritance.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\obj\Debug\net8.0\Ch06Ex02Inheritance.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\obj\Debug\net8.0\Ch06Ex02Inheritance.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\obj\Debug\net8.0\refint\Ch06Ex02Inheritance.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\obj\Debug\net8.0\Ch06Ex02Inheritance.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\obj\Debug\net8.0\Ch06Ex02Inheritance.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter06\Ch06Ex02Inheritance\obj\Debug\net8.0\ref\Ch06Ex02Inheritance.dll
