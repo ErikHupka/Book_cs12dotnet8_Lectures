@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\refint\WorkingWithNumbers.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\ref\WorkingWithNumbers.dll
