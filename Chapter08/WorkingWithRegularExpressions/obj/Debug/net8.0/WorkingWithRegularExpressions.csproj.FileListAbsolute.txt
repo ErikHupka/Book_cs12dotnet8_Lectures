@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net8.0\WorkingWithRegularExpressions.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net8.0\WorkingWithRegularExpressions.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net8.0\WorkingWithRegularExpressions.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net8.0\WorkingWithRegularExpressions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net8.0\WorkingWithRegularExpressions.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\refint\WorkingWithRegularExpressions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\ref\WorkingWithRegularExpressions.dll

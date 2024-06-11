@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\bin\Debug\net8.0\WorkingWithText.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\bin\Debug\net8.0\WorkingWithText.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\bin\Debug\net8.0\WorkingWithText.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\bin\Debug\net8.0\WorkingWithText.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\bin\Debug\net8.0\WorkingWithText.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\obj\Debug\net8.0\refint\WorkingWithText.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithText\obj\Debug\net8.0\ref\WorkingWithText.dll

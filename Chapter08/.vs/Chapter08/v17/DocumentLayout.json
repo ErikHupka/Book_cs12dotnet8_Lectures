@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter08\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C3FEA97-C3D0-4E69-BA2E-E829529F142F}|WorkingWithText\\WorkingWithText.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter08\\workingwithtext\\workingwithtext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0C3FEA97-C3D0-4E69-BA2E-E829529F142F}|WorkingWithText\\WorkingWithText.csproj|solutionrelative:workingwithtext\\workingwithtext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{10B65D73-F766-4395-91C7-E575F561E919}|WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter08\\workingwithregularexpressions\\program.strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B65D73-F766-4395-91C7-E575F561E919}|WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj|solutionrelative:workingwithregularexpressions\\program.strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B65D73-F766-4395-91C7-E575F561E919}|WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj|c:\\visualstudio projects\\cs12dotnet8\\chapter08\\workingwithregularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B65D73-F766-4395-91C7-E575F561E919}|WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj|solutionrelative:workingwithregularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WorkingWithText",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter08\\WorkingWithText\\WorkingWithText.csproj",
-              "RelativeDocumentMoniker": "WorkingWithText\\WorkingWithText.csproj",
-              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter08\\WorkingWithText\\WorkingWithText.csproj",
-              "RelativeToolTip": "WorkingWithText\\WorkingWithText.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-11T17:36:12.222Z",
+              "Title": "Program.Strings.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter08\\WorkingWithRegularExpressions\\Program.Strings.cs",
+              "RelativeDocumentMoniker": "WorkingWithRegularExpressions\\Program.Strings.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter08\\WorkingWithRegularExpressions\\Program.Strings.cs",
+              "RelativeToolTip": "WorkingWithRegularExpressions\\Program.Strings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:25:40.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter08\\WorkingWithRegularExpressions\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithRegularExpressions\\Program.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter08\\WorkingWithRegularExpressions\\Program.cs",
+              "RelativeToolTip": "WorkingWithRegularExpressions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:10:33.23Z",
               "EditorCaption": ""
             }
           ]
