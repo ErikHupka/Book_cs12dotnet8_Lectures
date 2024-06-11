@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SharedLibrary
+build_property.ProjectDir = C:\VisualStudio Projects\cs12dotnet8\Chapter07\SharedLibrary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

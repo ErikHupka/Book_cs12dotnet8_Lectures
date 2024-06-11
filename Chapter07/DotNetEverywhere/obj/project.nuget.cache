@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "su3f5avQLrPqsFF3GOxvfLVJouNN5yWGhT96RcWrdLYS/EDdXFBzhXzOoObhk0ID0tAL7SenmbXrRL4CJgTugw==",
+  "success": true,
+  "projectFilePath": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter07\\DotNetEverywhere\\DotNetEverywhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-arm64\\8.0.5\\microsoft.aspnetcore.app.runtime.osx-arm64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.netcore.app.host.osx-arm64\\8.0.5\\microsoft.netcore.app.host.osx-arm64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.5\\microsoft.netcore.app.runtime.linux-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-arm64\\8.0.5\\microsoft.netcore.app.runtime.osx-arm64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\8.0.5\\microsoft.netcore.app.host.osx-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm64\\8.0.5\\microsoft.netcore.app.runtime.linux-arm64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.5\\microsoft.netcore.app.host.linux-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\8.0.5\\microsoft.netcore.app.runtime.osx-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\8.0.5\\microsoft.aspnetcore.app.runtime.linux-arm64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\8.0.5\\microsoft.netcore.app.host.linux-arm64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.5\\microsoft.netcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.osx-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

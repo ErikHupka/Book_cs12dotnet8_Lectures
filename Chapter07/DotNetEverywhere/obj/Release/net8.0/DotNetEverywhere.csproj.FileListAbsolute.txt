@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\bin\Release\net8.0\DotNetEverywhere.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\bin\Release\net8.0\DotNetEverywhere.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\bin\Release\net8.0\DotNetEverywhere.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\bin\Release\net8.0\DotNetEverywhere.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\bin\Release\net8.0\DotNetEverywhere.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\obj\Release\net8.0\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\obj\Release\net8.0\DotNetEverywhere.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\obj\Release\net8.0\DotNetEverywhere.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\obj\Release\net8.0\DotNetEverywhere.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\obj\Release\net8.0\DotNetEverywhere.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\obj\Release\net8.0\DotNetEverywhere.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\obj\Release\net8.0\refint\DotNetEverywhere.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\obj\Release\net8.0\DotNetEverywhere.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\obj\Release\net8.0\DotNetEverywhere.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\obj\Release\net8.0\ref\DotNetEverywhere.dll

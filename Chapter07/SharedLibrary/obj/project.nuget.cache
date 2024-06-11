@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2DwXDc0GCDcR6y/Y8TwZDP8J+sFgqRBKBqFpJBT2ewsSqUc8q+9yneZFeqiwQKo21BZQBibMvOGSBjbwV8ZTPQ==",
+  "success": true,
+  "projectFilePath": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

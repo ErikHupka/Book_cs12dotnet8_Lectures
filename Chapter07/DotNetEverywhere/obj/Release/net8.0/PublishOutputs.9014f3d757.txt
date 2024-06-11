@@ -1,0 +1,5 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\bin\Release\net8.0\publish\DotNetEverywhere.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\bin\Release\net8.0\publish\DotNetEverywhere.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\bin\Release\net8.0\publish\DotNetEverywhere.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\bin\Release\net8.0\publish\DotNetEverywhere.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter07\DotNetEverywhere\bin\Release\net8.0\publish\DotNetEverywhere.pdb
