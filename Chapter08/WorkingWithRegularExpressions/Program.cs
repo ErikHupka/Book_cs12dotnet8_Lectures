@@ -3,7 +3,7 @@ using System.Text.RegularExpressions; // To use Regex.
 
 Write(value: "Enter your age: ");
 //string input = ReadLine()!; // Null-forgiving operator.
-Regex ageChecker = new(pattern: DigitsOnlyText);
+Regex ageChecker = DigitsOnly();
 //WriteLine(ageChecker.IsMatch(input) ? "Thank you!" : $"This is not a valid age: {input}");
 
 
@@ -22,7 +22,7 @@ foreach (string film in filmsDumb)
     WriteLine($"  {film}");
 }
 
-Regex csv = new(pattern: CommaSeparatorText);
+Regex csv = CommaSeparator();
 MatchCollection filmsSmart = csv.Matches(films);
 WriteLine("Splitting with regular expression:");
 foreach (Match film in filmsSmart)

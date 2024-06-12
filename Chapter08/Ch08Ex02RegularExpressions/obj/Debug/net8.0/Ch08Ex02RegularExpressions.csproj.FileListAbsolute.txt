@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\bin\Debug\net8.0\Ch08Ex02RegularExpressions.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\bin\Debug\net8.0\Ch08Ex02RegularExpressions.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\bin\Debug\net8.0\Ch08Ex02RegularExpressions.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\bin\Debug\net8.0\Ch08Ex02RegularExpressions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\bin\Debug\net8.0\Ch08Ex02RegularExpressions.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\obj\Debug\net8.0\Ch08Ex02RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\obj\Debug\net8.0\Ch08Ex02RegularExpressions.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\obj\Debug\net8.0\Ch08Ex02RegularExpressions.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\obj\Debug\net8.0\Ch08Ex02RegularExpressions.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\obj\Debug\net8.0\Ch08Ex02RegularExpressions.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\obj\Debug\net8.0\Ch08Ex02RegularExpressions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\obj\Debug\net8.0\refint\Ch08Ex02RegularExpressions.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\obj\Debug\net8.0\Ch08Ex02RegularExpressions.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\obj\Debug\net8.0\Ch08Ex02RegularExpressions.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\Ch08Ex02RegularExpressions\obj\Debug\net8.0\ref\Ch08Ex02RegularExpressions.dll

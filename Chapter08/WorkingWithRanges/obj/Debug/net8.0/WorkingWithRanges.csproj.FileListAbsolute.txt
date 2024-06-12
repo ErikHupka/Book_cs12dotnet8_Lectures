@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\bin\Debug\net8.0\WorkingWithRanges.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\bin\Debug\net8.0\WorkingWithRanges.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\bin\Debug\net8.0\WorkingWithRanges.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\bin\Debug\net8.0\WorkingWithRanges.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\bin\Debug\net8.0\WorkingWithRanges.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\obj\Debug\net8.0\refint\WorkingWithRanges.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithRanges\obj\Debug\net8.0\ref\WorkingWithRanges.dll

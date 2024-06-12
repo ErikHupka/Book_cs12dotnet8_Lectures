@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\obj\Debug\net8.0\refint\WorkingWithCollections.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter08\WorkingWithCollections\obj\Debug\net8.0\ref\WorkingWithCollections.dll

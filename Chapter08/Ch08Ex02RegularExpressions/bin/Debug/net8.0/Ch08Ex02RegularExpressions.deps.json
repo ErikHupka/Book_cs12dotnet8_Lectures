@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ch08Ex02RegularExpressions/1.0.0": {
+        "runtime": {
+          "Ch08Ex02RegularExpressions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ch08Ex02RegularExpressions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
