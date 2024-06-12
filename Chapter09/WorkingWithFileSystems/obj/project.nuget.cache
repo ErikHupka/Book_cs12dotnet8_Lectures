@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wSw+vKvnUPpCYZcVcDQ8h9Tp7m1iEeKVR9kWTDzXruqAtinhG6I6deRFi1uSX55/fAiRmKPdW5qUUlHZ4ewsQg==",
+  "success": true,
+  "projectFilePath": "C:\\VisualStudio Projects\\cs12dotnet8\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

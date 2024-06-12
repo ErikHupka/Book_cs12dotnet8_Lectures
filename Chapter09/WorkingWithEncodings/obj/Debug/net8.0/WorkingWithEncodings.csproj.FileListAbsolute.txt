@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\bin\Debug\net8.0\WorkingWithEncodings.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\bin\Debug\net8.0\WorkingWithEncodings.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\bin\Debug\net8.0\WorkingWithEncodings.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\bin\Debug\net8.0\WorkingWithEncodings.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\bin\Debug\net8.0\WorkingWithEncodings.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\obj\Debug\net8.0\WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\obj\Debug\net8.0\WorkingWithEncodings.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\obj\Debug\net8.0\WorkingWithEncodings.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\obj\Debug\net8.0\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\obj\Debug\net8.0\WorkingWithEncodings.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\obj\Debug\net8.0\WorkingWithEncodings.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\obj\Debug\net8.0\refint\WorkingWithEncodings.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\obj\Debug\net8.0\WorkingWithEncodings.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\obj\Debug\net8.0\WorkingWithEncodings.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithEncodings\obj\Debug\net8.0\ref\WorkingWithEncodings.dll

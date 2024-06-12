@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\obj\Debug\net8.0\refint\WorkingWithStreams.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithStreams\obj\Debug\net8.0\ref\WorkingWithStreams.dll

@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\bin\Debug\net8.0\WorkingWithRandomAccess.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\bin\Debug\net8.0\WorkingWithRandomAccess.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\bin\Debug\net8.0\WorkingWithRandomAccess.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\bin\Debug\net8.0\WorkingWithRandomAccess.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\bin\Debug\net8.0\WorkingWithRandomAccess.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\obj\Debug\net8.0\WorkingWithRandomAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\obj\Debug\net8.0\WorkingWithRandomAccess.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\obj\Debug\net8.0\WorkingWithRandomAccess.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\obj\Debug\net8.0\WorkingWithRandomAccess.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\obj\Debug\net8.0\WorkingWithRandomAccess.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\obj\Debug\net8.0\WorkingWithRandomAccess.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\obj\Debug\net8.0\refint\WorkingWithRandomAccess.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\obj\Debug\net8.0\WorkingWithRandomAccess.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\obj\Debug\net8.0\WorkingWithRandomAccess.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\WorkingWithRandomAccess\obj\Debug\net8.0\ref\WorkingWithRandomAccess.dll

@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\bin\Debug\net8.0\ControllingJson.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\bin\Debug\net8.0\ControllingJson.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\bin\Debug\net8.0\ControllingJson.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\bin\Debug\net8.0\ControllingJson.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\bin\Debug\net8.0\ControllingJson.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\obj\Debug\net8.0\refint\ControllingJson.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\ControllingJson\obj\Debug\net8.0\ref\ControllingJson.dll

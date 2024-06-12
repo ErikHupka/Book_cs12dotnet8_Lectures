@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\bin\Debug\net8.0\Ch09Ex02SerializingShapres.exe
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\bin\Debug\net8.0\Ch09Ex02SerializingShapres.deps.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\bin\Debug\net8.0\Ch09Ex02SerializingShapres.runtimeconfig.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\bin\Debug\net8.0\Ch09Ex02SerializingShapres.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\bin\Debug\net8.0\Ch09Ex02SerializingShapres.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\obj\Debug\net8.0\Ch09Ex02SerializingShapres.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\obj\Debug\net8.0\Ch09Ex02SerializingShapres.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\obj\Debug\net8.0\Ch09Ex02SerializingShapres.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\obj\Debug\net8.0\Ch09Ex02SerializingShapres.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\obj\Debug\net8.0\Ch09Ex02SerializingShapres.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\obj\Debug\net8.0\Ch09Ex02SerializingShapres.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\obj\Debug\net8.0\refint\Ch09Ex02SerializingShapres.dll
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\obj\Debug\net8.0\Ch09Ex02SerializingShapres.pdb
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\obj\Debug\net8.0\Ch09Ex02SerializingShapres.genruntimeconfig.cache
+C:\VisualStudio Projects\cs12dotnet8\Chapter09\Ch09Ex02SerializingShapres\obj\Debug\net8.0\ref\Ch09Ex02SerializingShapres.dll
