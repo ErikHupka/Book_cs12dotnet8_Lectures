@@ -1,0 +1,16 @@
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\bin\Debug\net8.0\Northwind.Blazor.Services.deps.json
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\bin\Debug\net8.0\Northwind.Blazor.Services.dll
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\bin\Debug\net8.0\Northwind.Blazor.Services.pdb
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.dll
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.pdb
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.csproj.AssemblyReference.cache
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.AssemblyInfo.cs
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.sourcelink.json
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\Northwin.FD95D321.Up2Date
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.dll
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\refint\Northwind.Blazor.Services.dll
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.pdb
+C:\VisualStudio Projects\cs12dotnet8\PracticalApps\Northwind.Blazor.Services\obj\Debug\net8.0\ref\Northwind.Blazor.Services.dll

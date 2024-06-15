@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7732AD01-69C1-4965-94CE-F6F399952C07}|Northwind.WebApi\\Northwind.WebApi.csproj|c:\\visualstudio projects\\cs12dotnet8\\practicalapps\\northwind.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7732AD01-69C1-4965-94CE-F6F399952C07}|Northwind.WebApi\\Northwind.WebApi.csproj|solutionrelative:northwind.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D96B793-D061-4120-8CF3-00A8D957DB16}|Northwind.Blazor\\Northwind.Blazor.csproj|c:\\visualstudio projects\\cs12dotnet8\\practicalapps\\northwind.blazor\\components\\pages\\customers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D96B793-D061-4120-8CF3-00A8D957DB16}|Northwind.Blazor\\Northwind.Blazor.csproj|solutionrelative:northwind.blazor\\components\\pages\\customers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7732AD01-69C1-4965-94CE-F6F399952C07}|Northwind.WebApi\\Northwind.WebApi.csproj|c:\\visualstudio projects\\cs12dotnet8\\practicalapps\\northwind.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7732AD01-69C1-4965-94CE-F6F399952C07}|Northwind.WebApi\\Northwind.WebApi.csproj|solutionrelative:northwind.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7D96B793-D061-4120-8CF3-00A8D957DB16}|Northwind.Blazor\\Northwind.Blazor.csproj|c:\\visualstudio projects\\cs12dotnet8\\practicalapps\\northwind.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D96B793-D061-4120-8CF3-00A8D957DB16}|Northwind.Blazor\\Northwind.Blazor.csproj|solutionrelative:northwind.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D96B793-D061-4120-8CF3-00A8D957DB16}|Northwind.Blazor\\Northwind.Blazor.csproj|c:\\visualstudio projects\\cs12dotnet8\\practicalapps\\northwind.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D96B793-D061-4120-8CF3-00A8D957DB16}|Northwind.Blazor\\Northwind.Blazor.csproj|solutionrelative:northwind.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.WebApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Northwind.WebApi\\appsettings.Development.json",
-              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.WebApi\\appsettings.Development.json",
-              "RelativeToolTip": "Northwind.WebApi\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-15T15:14:48.671Z",
+              "DocumentIndex": 0,
+              "Title": "Customers.razor",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.Blazor\\Components\\Pages\\Customers.razor",
+              "RelativeDocumentMoniker": "Northwind.Blazor\\Components\\Pages\\Customers.razor",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.Blazor\\Components\\Pages\\Customers.razor",
+              "RelativeToolTip": "Northwind.Blazor\\Components\\Pages\\Customers.razor",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T17:02:30.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.Blazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Northwind.Blazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.Blazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "Northwind.Blazor\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T17:01:52.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Northwind.WebApi\\Program.cs",
-              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.WebApi\\Program.cs",
-              "RelativeToolTip": "Northwind.WebApi\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAVAAAA",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "Northwind.Blazor\\Program.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.Blazor\\Program.cs",
+              "RelativeToolTip": "Northwind.Blazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T14:56:36.63Z",
+              "WhenOpened": "2024-06-15T17:00:53.319Z",
               "EditorCaption": ""
             }
           ]
