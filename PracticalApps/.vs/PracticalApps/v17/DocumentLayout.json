@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48BCB750-D316-46FF-B75E-D7351460553F}|Northwind.UnitTests\\Northwind.UnitTests.csproj|c:\\visualstudio projects\\cs12dotnet8\\practicalapps\\northwind.unittests\\entitymodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48BCB750-D316-46FF-B75E-D7351460553F}|Northwind.UnitTests\\Northwind.UnitTests.csproj|solutionrelative:northwind.unittests\\entitymodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAF9A251-E980-4B9E-963F-2D3760E9385A}|Northwind.Web\\Northwind.Web.csproj|c:\\visualstudio projects\\cs12dotnet8\\practicalapps\\northwind.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF9A251-E980-4B9E-963F-2D3760E9385A}|Northwind.Web\\Northwind.Web.csproj|solutionrelative:northwind.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EntityModelTests.cs",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.UnitTests\\EntityModelTests.cs",
-              "RelativeDocumentMoniker": "Northwind.UnitTests\\EntityModelTests.cs",
-              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.UnitTests\\EntityModelTests.cs",
-              "RelativeToolTip": "Northwind.UnitTests\\EntityModelTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Northwind.Web\\Program.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\cs12dotnet8\\PracticalApps\\Northwind.Web\\Program.cs",
+              "RelativeToolTip": "Northwind.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T17:21:32.209Z",
+              "WhenOpened": "2024-06-15T01:07:54.084Z",
               "EditorCaption": ""
             }
           ]
